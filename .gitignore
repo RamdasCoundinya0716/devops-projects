@@ -1,0 +1,3 @@
+# Ignore specific files
+java-app-deployement_accessKeys.csv
+java-app.pem
